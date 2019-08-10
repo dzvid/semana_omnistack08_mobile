@@ -4,7 +4,7 @@ import { Text, Platform, KeyboardAvoidingView, StyleSheet, Image, TextInput, Tou
 
 import api from "../services/api";
 
-import logo from '../assets/logo.png';
+import logo from '../assets/images/logo/logo.png';
 
 export default function Login({ navigation }){
     // estado do componente
